@@ -1,5 +1,5 @@
 ---
-title: Talk | School kids day in Baden-Württemberg, Germany
+title: Talk | Recommender Systeme, School kids day BW, Germany
 date: 2018-03-16 16:20:41
 tags: talk
 ---

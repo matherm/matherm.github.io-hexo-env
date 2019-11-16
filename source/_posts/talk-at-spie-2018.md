@@ -1,5 +1,5 @@
 ---
-title: Talk | SPIE Optics & Photonics in San-Diego (CA), USA
+title: Talk | Optical surface detection and novelty detection, SPIE Optics & Photonics in San-Diego (CA)
 date: 2018-08-16 16:22:28
 tags: talk
 ---

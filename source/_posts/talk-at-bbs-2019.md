@@ -1,5 +1,5 @@
 ---
-title: Talk | IOS Brown Bag Seminar, Konstanz
+title: Talk | Unsupervised Machine Learning in Optical Inspection, IOS Brown Bag Seminar, Konstanz
 date: 2019-09-20 17:55:15
 tags: talk
 ---

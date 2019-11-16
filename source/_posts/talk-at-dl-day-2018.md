@@ -1,5 +1,5 @@
 ---
-title: Talk | Deep Learning Day in Winterthur, Switzerland
+title: Talk | Rediscovering ICA properties in Neural Networks, Deep Learning Day, Winterthur (CH)
 date: 2018-09-16 16:23:19
 tags: talk
 ---
