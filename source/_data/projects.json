@@ -1,0 +1,12 @@
+[
+    {
+       "name":"MultiSenseLakePerceptor",
+       "url":"/research/",
+       "desc":"Optisches Multisensorsystem für autonome Anwendungen auf Binnengewässern"
+    },
+    {
+       "name":"MultiFlexInspect",
+       "url":"/research/",
+       "desc":"Multifunktional-skalierbare generische InlineInspektion für flexible Fertigungsprozesse in vernetzten Produktionsanlagen"
+    }
+]

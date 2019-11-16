@@ -1,6 +1,6 @@
 ---
 title: Gaussian Processes from a sampling perspective
-date: 2018-09-16 10:59:00
+date: 2018-10-16 10:59:00
 mathjax: true
 tags:
   - Stochastic Gaussian

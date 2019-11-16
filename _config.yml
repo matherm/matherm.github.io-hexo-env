@@ -5,7 +5,7 @@
 # Site
 title: MATH|erm
 subtitle: i.~i.d samples from a computer + data scientist.
-description:
+description: computer scientist | tensor savvy | probability wizard | manifold kernelizer | linux enthusiast | javascript supporter 
 author: Matthias Hermann
 language: en
 timezone: Europe/Berlin
@@ -72,10 +72,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 #plugins: hexo-math
-#plugins: hexo-renderer-mathjax
+plugins: hexo-renderer-mathjax
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: next
+#theme: next
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
